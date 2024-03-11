@@ -1,0 +1,14 @@
+body {
+
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    
+}
+
+
+.Imagem {
+    height: 400px;
+    width: 400px;
+    padding-left: 700px;
+}
